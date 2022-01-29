@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Manager, Computer Vision & Graphics Scientist, Innovator
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: /assets/prof_pic.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
