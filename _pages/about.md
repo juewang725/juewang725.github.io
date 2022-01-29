@@ -6,7 +6,7 @@ subtitle: Research Manager, Computer Vision & Graphics Scientist, Innovator
 
 profile:
   align: right
-  image: assets/img/prof_pic.jpg
+  img: assets/img/prof_pic.jpg
 #  address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
