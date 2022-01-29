@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Megvii SuperIQ (2019)
+title: Super Night Shot (2019)
 description: revolutionary low-light imaging solution on Android devices
 img: assets/img/superiq.jpg
 importance: 2
@@ -22,6 +22,7 @@ consumers. At its core lies our efficient, mobile-friendly RAW image denoising t
 shipped with millions of Android smart phones since 2019.
 
 Our raw image denoising paper:
+
 Yuzhi Wang, Haibin Huang, Qin Xu, Jiaming Liu, Yiqun Liu, Jue Wang. [Practical deep raw image denoising on mobile devices](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bt4uDWMAAAAJ&sortby=pubdate&citation_for_view=Bt4uDWMAAAAJ:zaWPYk0SwtcC). ECCV 2020.
 
 

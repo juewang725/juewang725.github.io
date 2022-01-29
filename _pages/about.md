@@ -19,3 +19,4 @@ Dr. Wang is Distinguished Scientist at Tencent, leading research efforts in inte
 Dr. Wang has a respectable record of transferring advanced technologies into consumer products. His early work in grad school on Image Matting has been transferred into a commercial product called Silhouette that won 2019 Oscar technical award. At Adobe he has developed a dozen of release-defining features for Photoshop and After Effects such as Refine Edge, Shake Reduction, Warp Stabilizer and RotoBrush, etc. At MEGVII he led the development of many cutting-edge mobile photography solutions that have been shipped in tens of millions Android smartphones. 
 
 [My Google Scholar Page](https://scholar.google.com/citations?user=Bt4uDWMAAAAJ&hl=en)
+[A list of past Tech Transfers](/projects/)
