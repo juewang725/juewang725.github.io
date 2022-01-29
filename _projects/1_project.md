@@ -1,8 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Snow Leopard Protection (2021)
+description: Artificial intelligence (AI) technology has been extensively applied in a national park in
+northwest China to track snow leopards inhabiting the region. The AI-aided digital toolbox
+can automatically distinguish the species in the Qilian Mountains National Park,
+Gansu Province, from other wildlife, using images captured by infrared cameras. The technology,
+jointly developed by Chinese internet giant Tencent, the World Wild Fund and One Planet
+Foundation, can thus improve data processing efficiency.
+Chinese researchers develop advanced tech for snow leopard protection
+img: assets/img/snow.png
 importance: 1
 category: work
 ---
