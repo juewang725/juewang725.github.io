@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Snow Leopard Protection (2021)
-description: AI toolbox for classifying wild animals in national parks
+title: Snow Leopard Protection
+description: AI toolbox for classifying wild animals in national parks (Tencent 2021)
 img: assets/img/snow.png
 importance: 1
 category: work

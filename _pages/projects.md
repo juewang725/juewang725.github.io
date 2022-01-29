@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Transfers
+title: tech transfers
 permalink: /projects/
 description: Some of the tech tranfer projects I had worked on
 nav: true

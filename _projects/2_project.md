@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Super Night Shot (2019)
-description: revolutionary low-light imaging solution on Android devices
+title: Super Night Shot
+description: revolutionary low-light imaging solution on Android devices (Megvii 2019)
 img: assets/img/superiq.jpg
 importance: 2
 category: work
