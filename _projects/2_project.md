@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Megvii: SuperIQ (2019)
+title: Megvii SuperIQ (2019)
 description: revolutionary low-light imaging solution on Android devices
 img: assets/img/superiq.jpg
 importance: 2
@@ -22,7 +22,7 @@ consumers. At its core lies our efficient, mobile-friendly RAW image denoising t
 shipped with millions of Android smart phones since 2019.
 
 Our raw image denoising paper:
-
+Yuzhi Wang, Haibin Huang, Qin Xu, Jiaming Liu, Yiqun Liu, Jue Wang. [Practical deep raw image denoising on mobile devices](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Bt4uDWMAAAAJ&sortby=pubdate&citation_for_view=Bt4uDWMAAAAJ:zaWPYk0SwtcC). ECCV 2020.
 
 
 [NTIRE 2019 Challenge on Real Image Denoising](https://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Abdelhamed_NTIRE_2019_Challenge_on_Real_Image_Denoising_Methods_and_Results_CVPRW_2019_paper.html)
