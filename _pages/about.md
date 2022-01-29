@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Manager 
-Computer Vision & Graphics Scientist
-Innovator
+subtitle: Research Manager, Computer Vision & Graphics Scientist, Innovator
 
 profile:
   align: right
