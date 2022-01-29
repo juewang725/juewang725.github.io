@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A list of products/tech transfers/cool projects that I had worked on:
+description: A list of tech transfers that I had worked on:
 nav: true
 display_categories: [work, fun]
 horizontal: false
