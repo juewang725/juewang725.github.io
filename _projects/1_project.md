@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Snow Leopard Protection (2021)
-description: Artificial intelligence (AI) 
-img: assets/img/snow.png
+title: project 1
+description: a project with a background image
+img: assets/img/12.jpg
 importance: 1
 category: work
 ---
